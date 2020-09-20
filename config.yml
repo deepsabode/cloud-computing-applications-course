@@ -8,8 +8,8 @@ before:
     title: Welcome!
     body: new-issue.md
 steps:
-  - title: First step
-    description: The first step in your course
+  - title: Introduction
+    description: Introduction to cloud computing applications
     event: issues.assigned
     link: '{{ repoUrl }}'
     actions:

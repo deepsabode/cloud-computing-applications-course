@@ -1,4 +1,4 @@
-This is the description we show on the course page [here](https://lab.github.com/deepsabode/cloud-computing-applications). This first paragraph will be featured at the top of the page so make it great.
+Cloud computing applications course. [here](https://lab.github.com/deepsabode/cloud-computing-applications). In t his course you will learn the common cloud computing applications and the technologies used to build those applications.
 ​
 
 ​
